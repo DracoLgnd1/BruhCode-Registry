@@ -1,4 +1,4 @@
-# BruhCode — Talent Registry
+# BruhCode Talent Registry
 
 **An internal talent registry and staffing tool for BruhCode, a Lahore-based software house.**
 
@@ -8,7 +8,7 @@ Live at [bruhcode.vercel.app](https://bruhcode.vercel.app)
 
 ## Overview
 
-BruhCode's Talent Registry is a web app built to manage the software house's team, map skills across domains, match members to client briefs, and draft proposals — all in one place. Built for internal use with a public-facing browse view.
+BruhCode's Talent Registry is a web app built to manage the software house's team, map skills across domains, match members to client briefs, and draft proposals; all in one place. Built for internal use with a public facing browse view.
 
 ---
 
@@ -26,7 +26,7 @@ BruhCode's Talent Registry is a web app built to manage the software house's tea
 
 **Project Staffing**
 - AI-powered member matching weighted by expertise level
-- Best-fit team suggestions per domain brief
+- Best fit team suggestions per domain brief
 
 **Win Work**
 - Paste a job description from Upwork, Fiverr, LinkedIn, or a direct client brief
@@ -34,12 +34,12 @@ BruhCode's Talent Registry is a web app built to manage the software house's tea
 - Drafts a full proposal ready to send
 
 **AI Talent Report**
-- One-click AI analysis of the full team
+- One click AI analysis of the full team
 - Generates a talent intelligence report with download to PDF
 
 **Access Control**
-- Public visitors can browse the registry
-- Admin login required to add, edit, or remove members
+- Public visitors can visit the site only
+- Admin login required to browse, edit, and remove members or skills
 
 ---
 
@@ -54,4 +54,4 @@ BruhCode's Talent Registry is a web app built to manage the software house's tea
 
 ## Built By
 
-[Saim Rasheed](https://linkedin.com/in/mian-saim-rasheed) — BruhCode, Lahore, Pakistan.
+[Saim Rasheed](https://linkedin.com/in/mian-saim-rasheed) for BruhCode, Lahore, Pakistan.
